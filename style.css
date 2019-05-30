@@ -1,0 +1,114 @@
+body{
+    margin: 0;
+}
+#icon{
+    background-color: #200720; 
+    margin-right: 0px;
+}  
+    
+    
+#icon i{
+    font-size: 2.4em;
+    color: #321b32;
+    background-color: #574457;
+    padding: 0px;
+    margin-top: 9px;
+    margin-left: 13px;
+    margin-bottom: 300px;
+    border: 1px solid none;
+    border-radius: 7px;
+}
+#icon img, i{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+}
+#items{
+    background-color: #3f0e40;
+    color: #8c6f8d;
+}
+#items .fa-chevron-circle-down{
+    margin-right: 73px;
+    background-color: #3f0e40;
+    color: #8c6f8d;
+}  
+
+    
+
+    
+#tk{
+    background-color:  #3f0e40;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 15px;
+   font-weight: bold;
+   margin-top: 10px;
+  
+}  
+
+
+#tk i{
+    padding-top: 17; 
+}
+
+#name{
+    display: flex;
+    flex-direction: row;
+    font-weight: bold;
+    
+    
+}
+#name p{
+     margin-top: 0px;
+   
+}
+   
+
+#name i{
+    font-size: 9px;
+    color: #379289;
+    margin-bottom: 0px;
+    margin-top: 0px; 
+    padding-top: 4px;
+     
+}
+
+#jump {
+    background-color: #250027;
+    border: 1px solid #250027;
+    border-radius: 3px;
+    margin-left: 10px;
+    margin-right: 17px; 
+    
+}
+#jump input{
+    background-color: #250027;
+    border: none;
+    font-weight: bold;
+}
+#jump i{
+    font-size: 13px;
+}   
+
+ul{
+    list-style-type: none;
+} 
+li{
+   padding: 0px;
+   
+ }
+
+
+
+
+
+
+
+
+
