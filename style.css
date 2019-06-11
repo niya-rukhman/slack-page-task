@@ -98,17 +98,68 @@ nav{
 
 ul{
     list-style-type: none;
-} 
-li{
-   padding: 0px;
-   
- }
+    margin-left: 5px;
+    padding: 0px;
+    margin: 0px 0px 0px 5px;
+}
+
+#unread{
+    font-size: 19px;
+    margin-top: 11px;
+    color: white;
+}
+#thread{
+    margin-top: 0px;
+    padding-top: 0px;
+}
+.channel{
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 13px;
+}
+.channel i{
+    margin-top: 0px;
+    margin-right: 3px;
+    padding-top: 0px;
+}
+.list i{
+   font-size: 11px;
+}
+
+ a { 
+   color: white;
+   text-decoration: none;
+   background-color: #1063a3;
+   border: 2px solid #1063a3; 
+   padding-right: 150px;
+   padding-top: 5px;
+   padding-bottom: 7px;
+}   
 
 
+.direct{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 13px;
+    margin-top: 25px;
+}
+.direct i{
+    margin-top: 0px;
+    margin-right: 3px;
+    padding-top: 0px;
+}
+#action .fa-heart{
+    color: #2bab74;
+    font-size: 11px; 
+}
+#action .fa-circle{
+    color: #2bab74;
+    font-size: 11px; 
+    
+}
 
-
-
-
-
-
-
+.fa-circle{
+    
+    font-size: 11px; 
+}
